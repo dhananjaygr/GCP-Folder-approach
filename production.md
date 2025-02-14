@@ -34,27 +34,38 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 6. Then, under the **Edit Template Permissions,** provide the below-mentioned details: 
 
    Platform Friendly Name: **Google Cloud Platform (1)**
+
    Permission Type: **Custom Role (2)**
+
    Profile Type: **Attendee (3)**
+
    Scope: **GCP Folder (4)**
-   Custom Role URL: **https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json**
+
+   Custom Role URL: **https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json (5)**
    
-   click on the **Submit** button.
+   Then, Click on the **Submit (6)** button.
 
    ![](/img/05.png)
 
    >**Note:** For now, to access the folder, we need to provide folder-level permissions through a custom role. In the future, a separate built-in role for folder     access will be available. 
 
    Below is a sample that includes permissions for Folder management, Project management, IAM roles, Compute Engine, Networking, Storage, and more.
+
    **Link:** [Basic Custom Role](https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json)
 
 7.  Now, provide the additional template permissions. Click on the **Add** button and provide the below-mentioned details:
 
     Platform Friendly Name: **Google Cloud Platform (1)**
+
     Permission Type: **Basic Role (2)**
+
     Profile Type: **Attendee (3)**
+
     Scope: **GCP Folder (4)**
+
     Permission: **Owner (5)**
+
+    Then, Click on the **Submit (6)** button.
 
     ![](/img/06.png)
 
