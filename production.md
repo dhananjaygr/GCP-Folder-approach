@@ -24,11 +24,12 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
    ![](/img/04.png)
 
-6. In the template, under the Cloud Template section, provide the necessary Cloud Template URL and Parameter URL if you want the resources to be ready for use when the deployment happens.
+5. In the template, under the Cloud Template section, provide the necessary Cloud Template URL and Parameter URL if you want the resources to be ready for use when 
+   the deployment happens.
 
->**Note:** All Cloud Template deployments will be deployed under the first project only.
+   >**Note:** All Cloud Template deployments will be deployed under the first project only.
 
-5. Then, under the template permissions, provide the following details:
+6. Then, under the template permissions, provide the following details:
 
    Platform Friendly Name: **Google Cloud Platform (1)**
    Permission Type: **Custom Role (2)**
@@ -40,9 +41,9 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
 6. 
 
->**Note:** For now, to access the folder, we need to provide folder-level permissions through a custom role. In the future, a separate built-in role for folder access will be available. 
+   >**Note:** For now, to access the folder, we need to provide folder-level permissions through a custom role. In the future, a separate built-in role for folder     access will be available. 
 
-Below is a sample that includes permissions for Folder management, Project management, IAM roles, Compute Engine, Networking, Storage, and more.
-**Link:** [Basic Custom Role](https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json)
+   Below is a sample that includes permissions for Folder management, Project management, IAM roles, Compute Engine, Networking, Storage, and more.
+   **Link:** [Basic Custom Role](https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json)
 
 7. 
