@@ -72,10 +72,8 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
     ![](/img/07.png)
 
-    >**Note:**  Giving Owner permissions at the folder level gives the user full control over the projects under it, allowing them to deploy, modify, and manage        resources.
+    >**Note:**  Giving Owner permissions at the folder level gives the user full control over the projects under it, allowing them to deploy, modify, and manage resources.
 
-    >Projects will inherit permissions from the folder.
-   
-    >Resource or IAM-related permissions can be set as custom roles and applied as needed.
+    >Projects will inherit permissions from the folder. Other resource or IAM-related permissions can be defined using custom roles and applied as needed.
 
 8. 
