@@ -76,4 +76,24 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
     >Projects will inherit permissions from the folder. Other resource or IAM-related permissions can be defined using custom roles and applied as needed.
 
-8. 
+8. Now, click the Submit button to submit the template.
+
+9. Go to the **ODL (1)** section and click on the **Users (2)** section.
+
+    ![](/img/08.png)
+
+10. Now, deploy an ODL user from the **users** section.
+
+11. Outputs Based on the Deployment:
+
+    Below is the screenshot for the folder and the 4 projects that are accessible.
+
+    ![](/img/09.png)
+
+    Below is the screenshot for the Cloud Template deployment that occurred in the first project, as specified in the template.
+
+    ![](/img/10.png)
+
+    Below is the screenshot for the resources created in the other 3 projects.
+
+    ![](/img/11.png)
