@@ -47,7 +47,8 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
    ![](/img/05.png)
 
-   >**Note:** For now, to access the folder, we need to provide folder-level permissions through a custom role. In the future, a separate built-in role for folder     access will be available. 
+   >**Note:** For now, to access the folder, we need to provide folder-level permissions through a custom role. 
+   >In the future, a separate built-in role for folder access will be available. 
 
    Below is a sample that includes permissions for Folder management, Project management, IAM roles, Compute Engine, Networking, Storage, and more.
 
@@ -71,9 +72,10 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
     ![](/img/07.png)
 
-   >**Note:**  Giving Owner permissions at the folder level gives the user full control over the projects under it, allowing them to deploy, modify, and manage        resources.
-   Projects will inherit permissions from the folder.
+    >**Note:**  Giving Owner permissions at the folder level gives the user full control over the projects under it, allowing them to deploy, modify, and manage        resources.
+
+    >Projects will inherit permissions from the folder.
    
-   Resource or IAM-related permissions can be set as custom roles and applied as needed.
+    >Resource or IAM-related permissions can be set as custom roles and applied as needed.
 
 8. 
