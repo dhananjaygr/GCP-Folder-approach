@@ -41,7 +41,7 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
    Scope: **GCP Folder (4)**
 
-   Custom Role URL: **https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json (5)**
+   Custom Role URL: **https://cloudlabs-prod-templates-s3.s3.us-east-1.amazonaws.com/WIZ/test/GCP+Folder+Test/TestCustomPolicy.json (5)**
    
    Then, Click on the **Submit (6)** button.
 
