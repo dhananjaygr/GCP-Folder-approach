@@ -52,7 +52,7 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
    Below is a sample that includes permissions for Folder management, Project management, IAM roles, Compute Engine, Networking, Storage, and more.
 
-   **Link:** [Basic Custom Role](https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json)
+   **Link:** [Basic Custom Role](https://cloudlabs-prod-templates-s3.s3.us-east-1.amazonaws.com/WIZ/test/GCP+Folder+Test/TestCustomPolicy.json)
 
 7.  Now, provide the additional template permissions. Click on the **Add** button and provide the below-mentioned details:
 
