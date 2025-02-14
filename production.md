@@ -88,6 +88,8 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
     Below is the screenshot for the folder and the 4 projects that are accessible.
 
+    >**Note:** To view the folder and all projects under it, please go to the All Sections.
+
     ![](/img/09.png)
 
     Below is the screenshot for the Cloud Template deployment that occurred in the first project, as specified in the template.
