@@ -29,6 +29,8 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
    >**Note:** All Cloud Template deployments will be deployed under the first project only.
 
+   ![](/img/Template.png)
+
 6. Then, under the **Edit Template Permissions,** provide the below-mentioned details: 
 
    Platform Friendly Name: **Google Cloud Platform (1)**
