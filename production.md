@@ -97,3 +97,8 @@ Each CloudLabs user deployment will be granted folder access, along with access 
     Below is the screenshot for the resources created in the other 3 projects.
 
     ![](/img/11.png)
+
+    ![](/img/12.png)
+
+    ![](/img/13.png)
+    
