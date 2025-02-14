@@ -29,15 +29,19 @@ Each CloudLabs user deployment will be granted folder access, along with access 
 
    >**Note:** All Cloud Template deployments will be deployed under the first project only.
 
-6. Then, under the template permissions, provide the following details:
+6. Then, under the **Edit Template Permissions,** provide the below-mentioned details: 
 
    Platform Friendly Name: **Google Cloud Platform (1)**
    Permission Type: **Custom Role (2)**
    Profile Type: **Attendee (3)**
    Scope: **GCP Folder (4)**
-   Custom Role URL: **abc.json**
+   Custom Role URL: **https://cloudlabs-gcp.s3.us-east-1.amazonaws.com/gcpcustomrole.json**
+   
+   click on the **Submit** button.
 
    ![](/img/05.png)
+
+   ![](/img/06.png)
 
 6. 
 
